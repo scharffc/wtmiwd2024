@@ -2,7 +2,7 @@
 
 # Impact the Future of AI @ Pace University, New York City
 
-# April 5th, 2024, 12 pm to 5 pm
+# April 5th, 2024, 11 am to 5 pm
 
 # Location
 
