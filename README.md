@@ -31,7 +31,7 @@ TBD
 # Organizers
 
 * Dr. Christelle Scharff, Women Techmakers Ambassador & Professor, Pace University
- Yousuf Aafreen, Student, Pace University
+* Yousuf Aafreen, Student, Pace University
 * Darsh Joshi, Student, Pace University
 * Om Gaikhe, Student, Pace University
 * Jennifer Aris Garcia, Student, Pace University
