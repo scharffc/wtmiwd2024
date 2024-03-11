@@ -8,6 +8,8 @@
 
 ### In collaboration with [Pace University Seidenberg School of CSIS](https://seidenberg.pace.edu)
 
+_This event is a great opportunity for a practical overview of Machine Learning. It will focus on Generative AI and will also include personal development activities._
+
 # Location
 
 * Pace University, Seidenberg School of CSIS, NYC Design Factory, 15 Beekman, 9th Floor, New York, NY 10038
