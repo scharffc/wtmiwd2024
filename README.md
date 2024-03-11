@@ -1,4 +1,4 @@
-<img width="800" alt="banner event" src="[https://github.com/scharffc/wtmiwd2024/blob/main/banner.png](https://github.com/scharffc/wtmiwd2024/blob/main/banner.png)">
+<img width="800" alt="banner event" src="https://github.com/scharffc/wtmiwd2024/blob/main/banner.png">
 
 # Impact the Future of AI @ Pace University
 
