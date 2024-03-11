@@ -1,4 +1,4 @@
-<img width="800" alt="registration WTM-IWD-2023-Bevy-2880x500" src="https://user-images.githubusercontent.com/761057/227758029-46847ca7-b732-4d94-9775-42b3a9f75c0c.png">
+<img width="800" alt="banner event" src="[https://user-images.githubusercontent.com/761057/227758029-46847ca7-b732-4d94-9775-42b3a9f75c0c.png](https://github.com/scharffc/wtmiwd2024/blob/main/banner.png)">
 
 # Impact the Future of AI @ Pace University
 
