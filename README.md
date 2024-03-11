@@ -1,6 +1,8 @@
 <img width="800" alt="banner event" src="https://github.com/scharffc/wtmiwd2024/blob/main/banner.png">
 
-# Impact the Future of AI @ Pace University, New York City
+# International Women Day (IWD) 2024, A Google Women Techmakers Event
+
+# Impact the Future of AI
 
 # April 5th, 2024, 11 am to 5 pm
 
@@ -23,6 +25,10 @@ TBD
 # Slides
 
 TBD
+
+# Organizers
+
+* Dr. Christelle Scharff, Women Techmakers Ambassador & Professor, Pace University
 
 # ML Game
 
