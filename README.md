@@ -1,12 +1,12 @@
 <img width="800" alt="banner event" src="https://github.com/scharffc/wtmiwd2024/blob/main/banner.png">
 
-# Impact the Future of AI @ Pace University
+# Impact the Future of AI @ Pace University, New York City
 
-# April 5th, 2024
+# April 5th, 2024, 12 pm to 5 pm
 
-# 12 pm to 5 pm
+# Location
 
-# Pace University, Seidenberg School of CSIS, Design Factory, 15 Beekman, 9th Floor, New York, NY 10028
+* Pace University, Seidenberg School of CSIS, NYC Design Factory, 15 Beekman, 9th Floor, New York, NY 10038
 
 # Registration
 
