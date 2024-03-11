@@ -1,12 +1,12 @@
 <img width="800" alt="banner event" src="https://github.com/scharffc/wtmiwd2024/blob/main/banner.png">
 
-# International Women Day (IWD) 2024, A Google Women Techmakers Event
+# International Women Day (IWD) 2024, A [Google Women Techmakers](https://developers.google.com/womentechmakers) Event
 
 ### Impact the Future of AI
 
 ### April 5th, 2024, 11 am to 5 pm
 
-### In collaboration with Pace University Seidenberg School of CSIS
+### In collaboration with [Pace University Seidenberg School of CSIS](https://seidenberg.pace.edu)
 
 # Location
 
@@ -31,6 +31,9 @@ TBD
 # Organizers
 
 * Dr. Christelle Scharff, Women Techmakers Ambassador & Professor, Pace University
+* Om Gaikhe
+* Darsh Joshi
+* 
 
 # ML Game
 
