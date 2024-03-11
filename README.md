@@ -31,9 +31,11 @@ TBD
 # Organizers
 
 * Dr. Christelle Scharff, Women Techmakers Ambassador & Professor, Pace University
-* Om Gaikhe
-* Darsh Joshi
-* 
+ Yousuf Aafreen, Student, Pace University
+* Darsh Joshi, Student, Pace University
+* Om Gaikhe, Student, Pace University
+* Jennifer Aris Garcia, Student, Pace University
+* Tiandra Lall, Alumn, Pace University 
 
 # ML Game
 
