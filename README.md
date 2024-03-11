@@ -14,7 +14,7 @@ Register [here](https://bit.ly/iwd2024aiml ) before April 1st.
 
 # Agenda
 
-[Agenda (TBD)]()
+TBD
 
 # Speakers
 
