@@ -2,9 +2,11 @@
 
 # International Women Day (IWD) 2024, A Google Women Techmakers Event
 
-# Impact the Future of AI
+## Impact the Future of AI
 
-# April 5th, 2024, 11 am to 5 pm
+## April 5th, 2024, 11 am to 5 pm
+
+## In collaboration with Pace University Seidenberg School of CSIS
 
 # Location
 
