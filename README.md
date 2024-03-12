@@ -6,7 +6,7 @@
 
 ### April 5th, 2024, 11 am to 5 pm
 
-### In collaboration with [Pace University Seidenberg School of CSIS](https://seidenberg.pace.edu)
+### In collaboration with [Pace University Seidenberg School of CSIS](https://seidenberg.pace.edu) and the [Pace AI Lab](https://seidenberg.pace.edu/artificial-intelligence)
 
 _This event is a great opportunity for a practical overview of Machine Learning. It will focus on Generative AI and will also include personal development activities._
 
