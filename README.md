@@ -39,7 +39,7 @@ TBD
 * Jennifer Aris Garcia, Student, Pace University
 * Tiandra Lall, Alumn, Pace University 
 
-# ML Game
+# Gen AI Game
 
 TBD
 
