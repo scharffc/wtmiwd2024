@@ -1,6 +1,6 @@
 <img width="800" alt="banner event" src="https://github.com/scharffc/wtmiwd2024/blob/main/banner.png">
 
-# International Women Day (IWD) 2024, A [Google Women Techmakers](https://developers.google.com/womentechmakers) Event, @Pace University
+# International Women Day (IWD) 2024, A [Google Women Techmakers](https://developers.google.com/womentechmakers) Event, @Pace University, New York
 
 ### Impact the Future of AI
 
@@ -8,7 +8,7 @@
 
 ### In collaboration with [Pace University Seidenberg School of CSIS](https://seidenberg.pace.edu) and the [Pace AI Lab](https://seidenberg.pace.edu/artificial-intelligence)
 
-_This event is a great opportunity for a practical overview of Machine Learning. It will focus on Generative AI and will also include personal development activities._
+_This event is a great opportunity for a practical overview of Generative AI. It will focus on general and tech talks, and will also include personal development activities._
 
 # Location
 
@@ -16,7 +16,7 @@ _This event is a great opportunity for a practical overview of Machine Learning.
 
 # Registration
 
-Register [here](https://bit.ly/iwd2024aiml ) before April 1st.
+Register [here](https://bit.ly/iwd2024aiml) before April 1st.
 
 # Agenda
 
@@ -37,7 +37,8 @@ TBD
 * Darsh Joshi, Student, Pace University
 * Om Gaikhe, Student, Pace University
 * Jennifer Aris Garcia, Student, Pace University
-* Tiandra Lall, Alumn, Pace University 
+* Tiandra Lall, Alumn, Pace University
+* Begimai Zhumakova, Alum & Adjunct, Pace University
 
 # Gen AI Game
 
