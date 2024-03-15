@@ -1,6 +1,6 @@
 <img width="800" alt="banner event" src="https://github.com/scharffc/wtmiwd2024/blob/main/banner.png">
 
-# International Women Day (IWD) 2024, A [Google Women Techmakers](https://developers.google.com/womentechmakers) Event
+# International Women Day (IWD) 2024, A [Google Women Techmakers](https://developers.google.com/womentechmakers) Event, @Pace University
 
 ### Impact the Future of AI
 
