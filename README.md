@@ -20,13 +20,13 @@ Register [here](https://bit.ly/iwd2024aiml) before April 1st.
 
 # Agenda
 
-TBD
+Available [here](https://bit.ly/wtmiwd2024agenda)
 
 # Speakers
 
 TBD
 
-# Slides
+# Slides & Notebooks
 
 TBD
 
