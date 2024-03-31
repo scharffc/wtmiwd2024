@@ -24,7 +24,7 @@ Available [here](https://bit.ly/wtmiwd2024agenda)
 
 # Speakers
 
-<img width="800" alt="banner event" src="https://github.com/scharffc/wtmiwd2024/blob/main/olga.png">
+<img width="350" alt="Olga" src="https://github.com/scharffc/wtmiwd2024/blob/main/olga.jpg">
 
 # Slides & Notebooks
 
