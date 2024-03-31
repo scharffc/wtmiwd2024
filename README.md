@@ -22,23 +22,13 @@ Register [here](https://bit.ly/iwd2024aiml) before April 1st.
 
 Available [here](https://bit.ly/wtmiwd2024agenda)
 
-# Speakers
+# Speakers / Organizers
 
-<img width="300" alt="Olga" src="https://github.com/scharffc/wtmiwd2024/blob/main/olga.jpg">  <img width="300" alt="Miriam" src="https://github.com/scharffc/wtmiwd2024/blob/main/miriam.jpg">  <img width="300" alt="Kartik" src="https://github.com/scharffc/wtmiwd2024/blob/main/kartik.jpg"> <img width="300" alt="Samyak" src="https://github.com/scharffc/wtmiwd2024/blob/main/samyak.jpg">
+<img width="300" alt="Olga" src="https://github.com/scharffc/wtmiwd2024/blob/main/olga.jpg">  <img width="300" alt="Miriam" src="https://github.com/scharffc/wtmiwd2024/blob/main/miriam.jpg">  <img width="300" alt="Kartik" src="https://github.com/scharffc/wtmiwd2024/blob/main/kartik.jpg"> <img width="300" alt="Samyak" src="https://github.com/scharffc/wtmiwd2024/blob/main/samyak.jpg"> <img width="300" alt="Christelle" src="https://github.com/scharffc/wtmiwd2024/blob/main/christelle.jpg"> <img width="300" alt="Om" src="https://github.com/scharffc/wtmiwd2024/blob/main/om.jpg"> <img width="300" alt="Samyak" src="https://github.com/scharffc/wtmiwd2024/blob/main/samyak.jpg"> <img width="300" alt="Samyak" src="https://github.com/scharffc/wtmiwd2024/blob/main/samyak.jpg"> <img width="300" alt="Samyak" src="https://github.com/scharffc/wtmiwd2024/blob/main/samyak.jpg"> <img width="300" alt="Samyak" src="https://github.com/scharffc/wtmiwd2024/blob/main/samyak.jpg">
 
 # Slides & Notebooks
 
 TBD
-
-# Organizers
-
-* Dr. Christelle Scharff, Women Techmakers Ambassador & Professor, Pace University
-* Yousuf Aafreen, Student, Pace University
-* Darsh Joshi, Student, Pace University
-* Om Gaikhe, Student, Pace University
-* Jennifer Aris Garcia, Student, Pace University
-* Tiandra Lall, Alumna, Pace University
-* Begimai Zhumakova, Aluma & Adjunct, Pace University
 
 # Gen AI Game
 
