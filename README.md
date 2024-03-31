@@ -24,7 +24,7 @@ Available [here](https://bit.ly/wtmiwd2024agenda)
 
 # Speakers
 
-<img width="350" alt="Olga" src="https://github.com/scharffc/wtmiwd2024/blob/main/olga.jpg">  <img width="350" alt="Miriam" src="https://github.com/scharffc/wtmiwd2024/blob/main/miriam.jpg">  <img width="350" alt="Kartik" src="https://github.com/scharffc/wtmiwd2024/blob/main/kartik.jpg"> <img width="350" alt="Samyak" src="https://github.com/scharffc/wtmiwd2024/blob/main/samyak.jpg">
+<img width="300" alt="Olga" src="https://github.com/scharffc/wtmiwd2024/blob/main/olga.jpg">  <img width="300" alt="Miriam" src="https://github.com/scharffc/wtmiwd2024/blob/main/miriam.jpg">  <img width="300" alt="Kartik" src="https://github.com/scharffc/wtmiwd2024/blob/main/kartik.jpg"> <img width="300" alt="Samyak" src="https://github.com/scharffc/wtmiwd2024/blob/main/samyak.jpg">
 
 # Slides & Notebooks
 
