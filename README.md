@@ -24,7 +24,7 @@ Available [here](https://bit.ly/wtmiwd2024agenda)
 
 # Speakers
 
-TBD
+
 
 # Slides & Notebooks
 
