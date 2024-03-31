@@ -1,4 +1,4 @@
-<img width="700" alt="banner event" src="https://github.com/scharffc/wtmiwd2024/blob/main/banner.png"> <img width="700" alt="banner event" src="https://github.com/scharffc/wtmiwd2024/blob/main/buildwithai.png">
+<img width="500" alt="banner event" src="https://github.com/scharffc/wtmiwd2024/blob/main/banner.png"> <img width="200" alt="banner event" src="https://github.com/scharffc/wtmiwd2024/blob/main/buildwithai.png">
 
 # International Women Day (IWD) 2024, A [Google Women Techmakers](https://developers.google.com/womentechmakers) Event, @Pace University, New York
 
