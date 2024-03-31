@@ -37,8 +37,8 @@ TBD
 * Darsh Joshi, Student, Pace University
 * Om Gaikhe, Student, Pace University
 * Jennifer Aris Garcia, Student, Pace University
-* Tiandra Lall, Alumn, Pace University
-* Begimai Zhumakova, Alum & Adjunct, Pace University
+* Tiandra Lall, Alumna, Pace University
+* Begimai Zhumakova, Aluma & Adjunct, Pace University
 
 # Gen AI Game
 
@@ -51,3 +51,5 @@ TBD
 # Social Media
 
 #IWD24 #WTMImpactTheFuture #WomenInTech 
+
+Short link: https://bit.ly/wtmiwd2024web
