@@ -28,11 +28,15 @@ Available [here](https://bit.ly/wtmiwd2024agenda)
 
 # Slides & Notebooks
 
-TBD
+* [Introduction](https://docs.google.com/presentation/d/16G_2lPyHNiOEAZDSl_rgk7bxJn7Kz7Gf/edit?usp=sharing&ouid=117510229771836964953&rtpof=true&sd=true) Dr. Christelle Scharff
+* [AI, Fashion and Ethics](https://docs.google.com/presentation/d/1Nk-K_wji0cbJM8BEY8k0TKRvQ8SQdOIHliFn1jr9hC8/edit?usp=sharing) Dr. Christelle Scharff, Om Gaikhe, Samyak Meshram
+* [Bingo](https://docs.google.com/document/d/1pZakHkqzkiU9WV88JRGZ3jpuY0o6ov67/edit?usp=sharing&ouid=117510229771836964953&rtpof=true&sd=true)
+* [Building Advanced Gen-AI Solutions Using Gemini on Google Cloud]()  Kartik Derasari, Google Developer Expert and Lead Solutions Engineer,P ersistent
 
 # Gen AI Game
 
-TBD
+* [Description of the Game](https://docs.google.com/presentation/d/1yKZ6STsCU3i2C8w71fwoA98Fqogud0WKufKduKXXM8Y/edit?usp=sharing) Yousuf Afreen, Om Gaikhe
+  * Submit [here](https://bit.ly/iwd2024competition)
 
 # Pictures
 
