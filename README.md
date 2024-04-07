@@ -8,6 +8,8 @@
 
 ### In collaboration with [Pace University Seidenberg School of CSIS](https://seidenberg.pace.edu) and the [Pace AI Lab](https://seidenberg.pace.edu/artificial-intelligence)
 
+<img width="150" alt="betterpic logo" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/seidenberglogo.png">
+
 ### Thanks to BetterPic for sponsoring the prizes for the GenAI competition ###
 
 <img width="150" alt="betterpic logo" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/bplogosmall.png"> 
