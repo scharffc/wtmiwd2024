@@ -4,9 +4,13 @@
 
 ### Impact the Future of AI
 
-### April 5th, 2024, 11 am to 5 pm
+### April 5th, 2024, 11 am to 6 pm
 
 ### In collaboration with [Pace University Seidenberg School of CSIS](https://seidenberg.pace.edu) and the [Pace AI Lab](https://seidenberg.pace.edu/artificial-intelligence)
+
+### Thanks to BetterPic for sponsoring the prizes for the GenAI competition ###
+
+<img width="150" alt="betterpic logo" src="https://github.com/scharffc/wtmiwd2024/blob/main/bplogosmall.png"> 
 
 _This event is a great opportunity for a practical overview of Generative AI. It will focus on general and tech talks, and will also include personal development activities._
 
@@ -33,7 +37,7 @@ Available [here](https://bit.ly/wtmiwd2024agenda)
 * [Bingo](https://docs.google.com/document/d/1pZakHkqzkiU9WV88JRGZ3jpuY0o6ov67/edit?usp=sharing&ouid=117510229771836964953&rtpof=true&sd=true)
 * [Building Advanced Gen-AI Solutions Using Gemini on Google Cloud](https://docs.google.com/presentation/d/10yEztXd1DX5yoHBH1H76YW9GEWHe8ZnIbOGJTZ7lP04/edit)  Kartik Derasari, Google Developer Expert and Lead Solutions Engineer, Persistent
 * [The Strengths and Witnesses of Generative AI](https://docs.google.com/presentation/d/1oes7tIOkpYwINhxqUV6iJpyMIZWhj3FtxVWOPYzvIYM/edit?usp=sharing ) Olga Scrivner
-* [Unlock the next iteration of YOU]() Miriam O'Shea
+* [Unlock the next iteration of YOU](https://github.com/scharffc/wtmiwd2024/blob/main/slides/unlockthenextyoumiriamoshea.pdf) Miriam O'Shea
 
 # Gen AI Game
 
