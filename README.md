@@ -10,7 +10,7 @@
 
 ### Thanks to BetterPic for sponsoring the prizes for the GenAI competition ###
 
-<img width="150" alt="betterpic logo" src="https://github.com/scharffc/wtmiwd2024/blob/main/bplogosmall.png"> 
+<img width="150" alt="betterpic logo" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/bplogosmall.png"> 
 
 _This event is a great opportunity for a practical overview of Generative AI. It will focus on general and tech talks, and will also include personal development activities._
 
