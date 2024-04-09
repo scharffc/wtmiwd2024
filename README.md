@@ -48,7 +48,8 @@ Available [here](https://bit.ly/wtmiwd2024agenda)
 
 # Pictures
 
-TBD
+<img width="150" alt="pic" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/DSC_0753.jpeg"> <img width="150" alt="pic" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/DSC_0577.jpeg"> <img width="150" alt="pic" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/DSC_0501.jpeg"> <img width="150" alt="pic" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/DSC_0567.jpeg"> <img width="150" alt="pic" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/DSC_0635.jpeg"> <img width="150" alt="pic" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/DSC_0639.jpeg"> <img width="150" alt="pic" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/DSC_0588.jpeg"> <img width="150" alt="pic" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/DSC_0655.jpeg"> <img width="150" alt="pic" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/DSC_0733.jpeg"> <img width="150" alt="pic" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/DSC_0748.jpeg">
+
 
 # Social Media
 
